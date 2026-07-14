@@ -1,8 +1,8 @@
 #include <stdio.h>   // Standard input-output header
 
-int main() {
+void main() {
     // Print a message to the screen
-    printf("Hello, World!\n");
+    //printf("Hello, World! leena\n");
 
-    return 0;  // End of program
+    //return 0;  // End of program
 }
